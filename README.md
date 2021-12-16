@@ -14,6 +14,8 @@ Please refer to [get_started.md](https://github.com/open-mmlab/mmdetection/blob/
 
 [inference.ipynb](https://github.com/pc0062296/NYCU_VRDL_HW3/blob/main/inference.ipynb)
 
+[model](https://drive.google.com/file/d/1jLlL3ioMV6rvZWGOzCCsVqRluuyJEKW7/view?usp=sharing)
+
 ### Training
 
 To train a detector with pre-trained models, run:
