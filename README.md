@@ -1,4 +1,4 @@
-# NYCU_VRDL_HW2
+# NYCU_VRDL_HW3
 
 **Notes**: 
 
@@ -12,7 +12,7 @@ Please refer to [get_started.md](https://github.com/open-mmlab/mmdetection/blob/
 
 ### Inference
 
-[inference.ipynb](https://github.com/pc0062296/NYCU_VRDL_HW2/blob/main/inference.ipynb)
+[inference.ipynb](https://github.com/pc0062296/NYCU_VRDL_HW3/blob/main/inference.ipynb)
 
 ### Training
 
